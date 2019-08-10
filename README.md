@@ -1,4 +1,4 @@
-A normalizer written by me used on [Enfoca!](https://www.goenfoca.com.br/)
+A normalizer written by me used on [PedeLogo!](https://www.pedelogo.online/)
 contact: zaharie@goenfoca.com.br
 
 Facebook entry exemple
