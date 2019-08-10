@@ -1,0 +1,11 @@
+{
+  "name": "normalizer-chatbot",
+  "version": "2.0.0",
+  "description": "a package to normalize chatbot entry and output data",
+  "main": "Normalizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaharie cont neto",
+  "license": "ISC"
+}
