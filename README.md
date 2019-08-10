@@ -1,5 +1,5 @@
 A normalizer written by me used on [PedeLogo!](https://www.pedelogo.online/)
-contact: zaharie@goenfoca.com.br
+contact: zaharie@pedelogo.online
 
 Facebook entry exemple
 const Normalizer = require ("normalizer-chatbot");
